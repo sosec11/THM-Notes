@@ -1,5 +1,3 @@
-# TryHackMe - CIA Triad
-
 ## Introduction
 
 The **CIA Triad** is a fundamental model in cybersecurity that represents three core principles used to protect information systems:
